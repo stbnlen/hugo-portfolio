@@ -318,7 +318,7 @@ params:
         image: https://i.ibb.co/J2wBW4N/Screenshot-2023-05-16-at-18-47-08-Streamlit.png
         featured:
           name: Demo
-          link: https://stbnlen-ia-st-main-page-2wngri.streamlit.app/
+          link: https://stbnlen-ia-st-pagina-principal-8tev52.streamlit.app/
         badges:
           - "Python"
           - "Streamlit"
