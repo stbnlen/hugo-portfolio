@@ -377,7 +377,7 @@ params:
       path: "blogs"
       count: 3
       title: Redes Sociales
-      enable: true
+      enable: false
       disableFeaturedImage: false
     socialNetworks:
       github: https://github.com/stbnlen
