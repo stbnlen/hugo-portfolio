@@ -63,7 +63,7 @@
                     {{ if and (.Site.Params.about.enable | default false) (not (.Site.Params.navbar.menus.disableAbout | default false)) }}
                     <li class="nav-item navbar-text">
                         <a class="nav-link" href="{{ .Site.BaseURL | relURL }}#about" aria-label="about">
-                            {{ .Site.Params.about.title | default "About" }}
+                            {{ .Site.Params.about.title | default "Sobre mi" }}
                         </a>
                     </li>
                     {{ end }}
@@ -72,7 +72,7 @@
                     <li class="nav-item navbar-text">
                         <a class="nav-link" href="{{ .Site.BaseURL | relURL }}#experience"
                             aria-label="experience">
-                            {{ .Site.Params.experience.title | default "Experience" }}
+                            {{ .Site.Params.experience.title | default "Experiencia" }}
                         </a>
                     </li>
                     {{ end }}
@@ -81,7 +81,7 @@
                     <li class="nav-item navbar-text">
                         <a class="nav-link" href="{{ .Site.BaseURL | relURL }}#education"
                             aria-label="education">
-                            {{ .Site.Params.education.title | default "Education" }}
+                            {{ .Site.Params.education.title | default "Educación" }}
                         </a>
                     </li>
                     {{ end }}
@@ -90,7 +90,7 @@
                     <li class="nav-item navbar-text">
                         <a class="nav-link" href="{{ .Site.BaseURL | relURL }}#projects"
                             aria-label="projects">
-                            {{ .Site.Params.projects.title | default "Projects" }}
+                            {{ .Site.Params.projects.title | default "Projectos" }}
                         </a>
                     </li>
                     {{ end }}
@@ -114,10 +114,10 @@
                     {{ end }}
 
                     <!-- custom menus from the user -->
-                    {{ range .Site.Menus.main }}
-                    {{ if .HasChildren }}
+                    <!-- {{ range .Site.Menus.main }}
+                    {{ if .HasChildren }} -->
                     <!-- Dropdown menu -->
-                    <li class="nav-item navbar-text dropdown">
+                    <!-- <li class="nav-item navbar-text dropdown">
                         <a class="nav-link dropdown-toggle" href="{{ .URL }}" id="navbarDropdown" role="button"
                             data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false" title="{{ .Title }}">
                             {{ .Name }}
@@ -131,16 +131,16 @@
                             {{ end }}
                         </div>
                     </li>
-                    {{else}}
+                    {{else}} -->
                     <!-- Single menu item -->
-                    <li class="nav-item navbar-text">
+                    <!-- <li class="nav-item navbar-text">
                         <a class="nav-link" href="{{.URL}}" title="{{ .Title }}">
                             {{ .Pre }}
                             {{ .Name }}
                         </a>
                     </li>
                     {{end}}
-                    {{end}}
+                    {{end}} -->
 
                     {{ if (not .Site.Params.theme.disableThemeToggle | default false) }}
                     <li class="nav-item navbar-text">
