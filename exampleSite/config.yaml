@@ -339,7 +339,6 @@ params:
           link: https://rpubs.com/stbnlen/chilean-premier-league
         badges:
           - "R"
-          - "Plotly"
           - "Rmarkdown"
           - "RStudio"
             #links:
