@@ -165,6 +165,7 @@ params:
         - "Microsoft Excel"
         - "R"
         - "Tableau"
+        - "Google Sheets"
 
   # Experience
   experience:
