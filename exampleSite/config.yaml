@@ -336,14 +336,15 @@ params:
         image: https://i.ibb.co/LtgrR0B/Screenshot-2023-05-16-at-18-43-52-Deepnote.png
         featured:
           name: Demo
-          link: https://deepnote.com/@sergio-vega-989b/chilean-premier-league-a7bf9b79-34ad-4e6b-9c9a-70b03249adaa
+          link: https://rpubs.com/stbnlen/chilean-premier-league
         badges:
-          - "Python"
+          - "R"
           - "Plotly"
-          - "Deepnote"
-        links:
-          - icon: fas fa-code
-            url: https://deepnote.com/workspace/sergio-vega-989b-ecfadc02-df63-45bd-abbd-80fcb5d13d08/project/chilean-premier-league-a7bf9b79-34ad-4e6b-9c9a-70b03249adaa/notebook/Analisis-e13b9ef946c949c6bbd18f2f126e0a8a
+          - "Rmarkdown"
+          - "RStudio"
+            #links:
+            #- icon: fas fa-code
+            #url: https://deepnote.com/workspace/sergio-vega-989b-ecfadc02-df63-45bd-abbd-80fcb5d13d08/project/chilean-premier-league-a7bf9b79-34ad-4e6b-9c9a-70b03249adaa/notebook/Analisis-e13b9ef946c949c6bbd18f2f126e0a8a
 
       - title: ItsPipe Model
         content: Una web que en base a informacion obtenida de opgg predice el resultado de una partida de league of legends con determinados features.
