@@ -361,7 +361,7 @@ params:
             url: https://github.com/stbnlen/itspipe-model
 
   # projects
-  projects:
+  projects_two:
     enable: true
     # title: "Custom Name"
     items:
