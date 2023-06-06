@@ -360,6 +360,57 @@ params:
           - icon: fab fa-github
             url: https://github.com/stbnlen/itspipe-model
 
+  # projects
+  projects:
+    enable: true
+    # title: "Custom Name"
+    items:
+      - title: Encuesta IA en bibliotecasX
+        content: Resultados de encuesta sobre uso de IA en bibliotecas chilenas.
+        image: https://i.ibb.co/J2wBW4N/Screenshot-2023-05-16-at-18-47-08-Streamlit.png
+        featured:
+          name: Demo
+          link: https://encuesta-ia-bibliotecas.streamlit.app/
+        badges:
+          - "Python"
+          - "Streamlit"
+          - "Plotly"
+        links:
+          #- icon: fa fa-envelope
+          #  url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
+          - icon: fab fa-github
+            url: https://github.com/stbnlen/IA_st
+          #- icon: fab fa-twitter
+          #  url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
+
+      - title: Chilean Premier League AnalisisX
+        content: Un analisis de los partidos de la primera division chilena.
+        image: https://i.ibb.co/LgVqfvK/Screenshot-2023-06-05-at-16-31-55-RPubs-Chilean-Premier-League-Analisis.png
+        featured:
+          name: Demo
+          link: https://rpubs.com/stbnlen/chilean-premier-league
+        badges:
+          - "R"
+          - "Rmarkdown"
+          - "RStudio"
+            #links:
+            #- icon: fas fa-code
+            #url: https://deepnote.com/workspace/sergio-vega-989b-ecfadc02-df63-45bd-abbd-80fcb5d13d08/project/chilean-premier-league-a7bf9b79-34ad-4e6b-9c9a-70b03249adaa/notebook/Analisis-e13b9ef946c949c6bbd18f2f126e0a8a
+
+      - title: ItsPipe ModelX
+        content: Una web que en base a informacion obtenida de opgg predice el resultado de una partida de league of legends con determinados features.
+        image: https://i.ibb.co/C6BXwHG/Screenshot-2023-05-16-at-18-41-10-Its-Pipe-Game-Result-Prediction.png
+        featured:
+          name: Demo
+          link: https://itspipe-prediction.up.railway.app/
+        badges:
+          - "Python"
+          - "Sckit-learn"
+          - "Flask"
+        links:
+          - icon: fab fa-github
+            url: https://github.com/stbnlen/itspipe-model
+
   #Contact
   contact:
     enable: true
