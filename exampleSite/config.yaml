@@ -54,7 +54,7 @@ Menus:
 
 params:
   title: "Sergio Vega"
-  description: Text about my cool site
+  description: A data analyst portfolio
   # staticPath: ""  # The path to serve the static files from
   favicon: "https://cdn-icons-png.flaticon.com/512/2720/2720550.png"
 
@@ -166,7 +166,7 @@ params:
         - "R"
         - "Tableau"
         - "Google Sheets"
-
+        - "Looker Studio"
   # Experience
   experience:
     enable: true
