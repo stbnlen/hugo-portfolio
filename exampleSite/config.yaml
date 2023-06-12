@@ -318,7 +318,7 @@ params:
     # title: "Custom Name"
     items:
       - title: Encuesta IA en bibliotecas
-        content: El proyecto de tesis de pregrado en Python con Streamlit muestra los resultados de una encuesta sobre el uso de IA en bibliotecas universitarias chilenas. Proporciona una visualización 
+        content:  El proyecto de tesis de pregrado en Python con Streamlit muestra los resultados de una encuesta sobre el uso de IA en bibliotecas universitarias chilenas. Proporciona una visualización 
         interactiva de los datos recopilados, presentando estadísticas y gráficos relevantes. 
         image: https://i.ibb.co/J2wBW4N/Screenshot-2023-05-16-at-18-47-08-Streamlit.png
         featured:
