@@ -295,15 +295,15 @@ params:
     title: "Certificaciones"
     items:
       - title: Google Advanced Data Analytics
-        content: En el curso avanzado de Google Analytics, se aprendió cómo se recopilan y procesan los datos para generar informes comprensibles. Se adquirieron habilidades para utilizar funciones que permiten recopilar datos específicos de la empresa, como dimensiones y métricas personalizadas, así como realizar un seguimiento de eventos.
+        content: En el curso avanzado de Google Analytics, se aprende cómo se recopilan y procesan los datos para generar informes comprensibles.
         url: https://www.coursera.org/account/accomplishments/specialization/certificate/TK2DBGNJP97P
 
       - title: Mathematics for Machine Learning and Data Science
-        content: DeepLearning.AI
+        content: En el Certificado de Mathematics for Machine Learning and Data Science, se adquiere un profundo entendimiento de las matemáticas que respaldan los algoritmos de aprendizaje automático. Se aprenden técnicas estadísticas que potencian el análisis de datos.
         url: https://www.coursera.org/account/accomplishments/specialization/certificate/Z83XHTMM75MK
 
       - title: Google Business Intelligence
-        content: Google
+        content: En el Certificado Profesional de Google Business Intelligence, se exploran los roles de los profesionales de inteligencia empresarial (BI) dentro de una organización. Se practica la modelización de datos y los procesos de extracción, transformación y carga (ETL).
         url: https://www.coursera.org/account/accomplishments/specialization/certificate/GWX9UYD25S39
 
       #- title: Microsoft Imagine Runner
