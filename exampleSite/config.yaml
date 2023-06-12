@@ -294,15 +294,18 @@ params:
     enable: true
     title: "Certificaciones"
     items:
-      - title: Google Data Analytics
+      - title: Google Advanced Data Analytics
         content: Google
-        url: https://www.coursera.org/account/accomplishments/specialization/certificate/UYLGEU82XYMA
-      - title: Data Analyst
-        content: Platzi
-        url: https://platzi.com/p/esteban-vega283/learning-path/7006-analyst/diploma/detalle/
-      - title: Databases and SQL for Data Science with Python
-        content: IBM
-        url: https://www.coursera.org/account/accomplishments/certificate/GZUMBL4H2YSS
+        url: https://www.coursera.org/account/accomplishments/specialization/certificate/TK2DBGNJP97P
+
+      - title: Mathematics for Machine Learning and Data Science
+        content: DeepLearning.AI
+        url: https://www.coursera.org/account/accomplishments/specialization/certificate/Z83XHTMM75MK
+
+      - title: Google Business Intelligence
+        content: Google
+        url: https://www.coursera.org/account/accomplishments/specialization/certificate/GWX9UYD25S39
+
       #- title: Microsoft Imagine Runner
       #  content: We are developed a product which can help others.
       #- title: Google Summer of Code
