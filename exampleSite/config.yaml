@@ -337,9 +337,7 @@ params:
           #  url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
 
       - title: Chilean Premier League Analisis
-        content: | 
-          El proyecto en R realizado con RMarkdown muestra los resultados de los partidos de la primera división chilena entre 2007 y 2019. Utilizando datos históricos, el proyecto proporciona 
-          análisis estadísticos y visualizaciones que permiten explorar el desempeño de los equipos, destacando tendencias, clasificaciones y resultados destacados de cada temporada.
+        content: El proyecto en R realizado con RMarkdown muestra los resultados de los partidos de la primera división chilena entre 2007 y 2019. Utilizando datos históricos, el proyecto proporciona 
         image: https://i.ibb.co/LgVqfvK/Screenshot-2023-06-05-at-16-31-55-RPubs-Chilean-Premier-League-Analisis.png
         featured:
           name: Demo
