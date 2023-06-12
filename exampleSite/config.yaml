@@ -268,7 +268,7 @@ params:
           url: "https://www.uahurtado.cl/"
         date: "2018 - 2023"
         #GPA: "3.9 out of 5.0"
-        #content: |-
+        content: Gestión de Información, Bibliotecología y Archivística forma profesionales altamente capacitados en la gestión estratégica de la información dentro de las organizaciones. Con sólidos conocimientos en tecnologías de la información y comunicaciones, estos expertos desempeñan un papel activo en el diseño, desarrollo e implementación de soluciones adaptadas a los requisitos de bibliotecas, archivos y diversas organizaciones tanto del sector público como privado.
         #  I Publiced two papers in the ACM SIGCHI Conference on Artificial Intelligence.
         #  - [Fast and Accurate Object Detection with a Single Convolutional Neural Network](https://example.com)
         #  - Face mask detection using a single convolutional neural network.
