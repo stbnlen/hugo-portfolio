@@ -295,7 +295,7 @@ params:
     title: "Certificaciones"
     items:
       - title: Google Advanced Data Analytics
-        content: Google
+        content: En el curso avanzado de Google Analytics, se aprendió cómo se recopilan y procesan los datos para generar informes comprensibles. Se adquirieron habilidades para utilizar funciones que permiten recopilar datos específicos de la empresa, como dimensiones y métricas personalizadas, así como realizar un seguimiento de eventos.
         url: https://www.coursera.org/account/accomplishments/specialization/certificate/TK2DBGNJP97P
 
       - title: Mathematics for Machine Learning and Data Science
