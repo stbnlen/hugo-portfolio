@@ -315,7 +315,7 @@ params:
   # projects
   projects:
     enable: true
-    # title: "Custom Name"
+    title: "Proyectos"
     items:
       - title: Encuesta IA en bibliotecas
         content:  El proyecto de tesis de pregrado en Python con Streamlit muestra los resultados de una encuesta sobre el uso de IA en bibliotecas universitarias chilenas.
