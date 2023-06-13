@@ -249,7 +249,7 @@ params:
   # Education
   education:
     enable: true
-    # title: "Custom Name"
+    title: "Educación"
     index: false
     items:
       #- title: "Master of Business Administration"
