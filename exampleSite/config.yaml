@@ -170,7 +170,7 @@ params:
   # Experience
   experience:
     enable: true
-    # title: "Custom Name"
+    title: "Experiencia Laboral"
     items:
       - job: "Practica Profesional Gestión de información"
         company: "Archivo Nacional de Chile"
