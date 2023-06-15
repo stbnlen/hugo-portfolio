@@ -208,9 +208,13 @@ params:
           enable: false
           content: I worked as a software developer for more than one year in Amazon.
         content: |
-          Práctica intermedia para participar en la recolección y organización de datos sobre el uso de los recursos digitales en la base de datos de la biblioteca, con el objetivo de analizar patrones y tendencias en el uso de estos recursos y presentar recomendaciones para mejorar su accesibilidad y utilidad.
-          - Realizar búsquedas bibliográficas avanzadas para obtener información relevante y confiable que pueda ser utilizada para la toma de decisiones informadas.
-          - Utilizar herramientas y técnicas de análisis de datos para identificar relaciones y patrones en el inventario y control de material bibliográfico en formato impreso, con el objetivo de optimizar su organización y disponibilidad para los usuarios de la biblioteca.
+          Durante mi experiencia en la Comisión para el Mercado Financiero (CMF), llevé a cabo la recopilación y organización de datos sobre el uso de recursos digitales en la base de datos de la biblioteca.
+          - Recopilé y organizé datos sobre el uso de recursos digitales en la base de datos de la biblioteca.
+          - Analicé patrones y tendencias en el uso de recursos digitales para presentar recomendaciones que mejoraran su accesibilidad y utilidad.
+          - Realicé búsquedas bibliográficas avanzadas para obtener información relevante y confiable.
+          - Utilicé herramientas y técnicas de análisis de datos para identificar relaciones y patrones en el inventario y control de material bibliográfico en formato impreso.
+          - Optimicé la organización y disponibilidad del material bibliográfico en formato impreso para los usuarios de la biblioteca.
+          - Trabajé en equipo con otros miembros del equipo de la biblioteca para alcanzar los objetivos del proyecto.
 
       #- job: "Junior Software Developer"
       #  company: "Apple"
