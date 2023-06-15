@@ -349,19 +349,19 @@ params:
             #- icon: fas fa-code
             #url: https://deepnote.com/workspace/sergio-vega-989b-ecfadc02-df63-45bd-abbd-80fcb5d13d08/project/chilean-premier-league-a7bf9b79-34ad-4e6b-9c9a-70b03249adaa/notebook/Analisis-e13b9ef946c949c6bbd18f2f126e0a8a
 
-      - title: ItsPipe Model
-        content: Una web que en base a informacion obtenida de opgg predice el resultado de una partida de league of legends con determinados features.
-        image: https://i.ibb.co/C6BXwHG/Screenshot-2023-05-16-at-18-41-10-Its-Pipe-Game-Result-Prediction.png
+      - title: Car Sales - 2019
+        content: Proyecto de dashboard en Google Sheets para análisis de ventas de autos en 2019, proporcionando visualizaciones y datos clave.
+        image: https://i.ibb.co/C1fZTrt/dash.jpg
         featured:
           name: Demo
-          link: https://itspipe-prediction.up.railway.app/
+          link: https://docs.google.com/spreadsheets/d/1IKGsl1Hf2DFbrLQeydUN6Y2ajuYrEd9_6mB2uairfXU/edit?usp=sharing
         badges:
-          - "Python"
-          - "Sckit-learn"
-          - "Flask"
-        links:
-          - icon: fab fa-github
-            url: https://github.com/stbnlen/itspipe-model
+          - "Google Sheets"
+          - "Analisis"
+          - "Visualización"
+        #links:
+          #- icon: fab fa-github
+          #  url: https://github.com/stbnlen/itspipe-model
 
   # projects
   projects_two:
