@@ -175,7 +175,7 @@ params:
       - job: "Analista de Datos Históricos y Gestión de Archivos"
         company: "Archivo Nacional de Chile"
         companyUrl: "https://www.archivonacional.gob.cl/"
-        date: "Sep 2022 - Ene 2023"
+        date: "Julio 2022 - Febrero 2023"
         featuredLink:
           enable: false
           name: "View the project"
@@ -183,24 +183,28 @@ params:
         info:
           enable: false
         content: |
-         Practica Profesional que consistio en la búsqueda de información sobre instituciones, la introducción de datos para la creación de nuevos elementos y
-         la revisión de información existente. En particular, mis tareas incluyeron:
+          Búsqueda de información sobre instituciones
+         
+          - Realicé búsquedas exhaustivas en los registros del Archivo Nacional para recopilar información sobre instituciones históricas.
+          - Analicé y sintetizé la información recopilada en informes claros y concisos.
+          - Mis informes fueron utilizados por el equipo de archivistas para tomar decisiones sobre la conservación y preservación de los registros.
+          
+          Introducción de datos para la creación de nuevos elementos
+          
+          - Introduje datos en el sistema de gestión de archivos para crear nuevos elementos.
+          - Me aseguré de que la información ingresada fuera precisa y estuviera estandarizada según las normas y procedimientos del Archivo Nacional.
+          - Los elementos que creé fueron utilizados por los investigadores para acceder a la información sobre las instituciones históricas.
+          
+          Revisión de información existente
+          
+          - Revisé la información existente en los registros del archivo para corregir errores o inconsistencias.
+          - Garanticé la integridad y la calidad de la información para que los investigadores pudieran acceder a ella con confianza.
+          - Trabajé en colaboración con otros miembros del equipo para asegurarme de que todas las tareas se completaran dentro de los plazos establecidos y de manera eficiente.
 
-          - Realizar búsquedas en los registros del Archivo Nacional para recopilar información sobre instituciones históricas, como empresas, organizaciones y gremios.
-
-          - Analizar y sintetizar la información recopilada en informes claros y concisos para su posterior revisión por parte del equipo de archivistas.
-
-          - Introducir datos en el sistema de gestión de archivos para crear nuevos elementos, asegurándome de que la información ingresada sea precisa y esté estandarizada según las normas y 
-          procedimientos del Archivo Nacional.
-
-          - Revisar la información existente en los registros del archivo para corregir errores o inconsistencias y garantizar la integridad y la calidad de la información.
-
-          - Trabajar en colaboración con otros miembros del equipo para asegurarme de que todas las tareas se completen dentro de los plazos establecidos y de manera eficiente."
-
-      - job: "Asistente de Gestión de Información y Análisis de Datos en Biblioteca"
+      - job: "Gestor de Información y Análisis de Datos"
         company: "Comisión para el Mercado Financiero CMF"
         companyUrl: "https://www.cmfchile.cl/"
-        date: "Ago 2021 - Dic 2021"
+        date: "Marzo 2021 - Enero 2022"
         featuredLink:
           enable: false
           url: "https://example.com"
@@ -208,13 +212,19 @@ params:
           enable: false
           content: I worked as a software developer for more than one year in Amazon.
         content: |
-          Durante mi experiencia en la Comisión para el Mercado Financiero (CMF), llevé a cabo la recopilación y organización de datos sobre el uso de recursos digitales en la base de datos de la biblioteca.
-          - Recopilé y organizé datos sobre el uso de recursos digitales en la base de datos de la biblioteca.
-          - Analicé patrones y tendencias en el uso de recursos digitales para presentar recomendaciones que mejoraran su accesibilidad y utilidad.
-          - Realicé búsquedas bibliográficas avanzadas para obtener información relevante y confiable.
-          - Utilicé herramientas y técnicas de análisis de datos para identificar relaciones y patrones en el inventario y control de material bibliográfico en formato impreso.
-          - Optimicé la organización y disponibilidad del material bibliográfico en formato impreso para los usuarios de la biblioteca.
-          - Trabajé en equipo con otros miembros del equipo de la biblioteca para alcanzar los objetivos del proyecto.
+          Recopilación y organización de datos sobre el uso de los recursos digitales en la base de datos de la biblioteca.
+          
+          - Realicé análisis de patrones y tendencias en el uso de estos recursos para identificar oportunidades de mejora. Por ejemplo, descubrí que los usuarios estaban buscando información sobre temas específicos con mayor frecuencia.
+          - Presenté recomendaciones para mejorar la accesibilidad y utilidad de los recursos digitales. Estas recomendaciones fueron implementadas y tuvieron un impacto positivo en el uso de los recursos digitales.
+          
+          Realización de búsquedas bibliográficas avanzadas.
+          
+          - Obtuve información relevante y confiable que fue utilizada para la toma de decisiones informadas. Por ejemplo, ayudé a la gerencia a tomar decisiones sobre la adquisición de nuevos recursos bibliográficos.
+          
+          Utilización de herramientas y técnicas de análisis de datos.
+          
+          - Identifiqué relaciones y patrones en el inventario y control de material bibliográfico en formato impreso. Por ejemplo, descubrí que había un exceso de libros en ciertas áreas.
+          - Optimicé la organización y disponibilidad del material bibliográfico para los usuarios de la biblioteca. Por ejemplo, rediseñé el sistema de clasificación para que los usuarios pudieran encontrar más fácilmente los libros que necesitaban.
 
       #- job: "Junior Software Developer"
       #  company: "Apple"
